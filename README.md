@@ -13,5 +13,6 @@ SOLUTION: https://replit.com/@LuisPedroza1/boilerplate-time-calculator#test_modu
 SOLUTION: https://replit.com/@LuisPedroza1/boilerplate-budget-app#budget.py
 
 4. Polygon Area Calculator: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
+SOLUTION: https://replit.com/@LuisPedroza1/boilerplate-polygon-area-calculator#shape_calculator.py
 
 5. Probability Calculator: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
