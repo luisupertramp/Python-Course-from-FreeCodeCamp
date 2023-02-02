@@ -16,3 +16,4 @@ SOLUTION: https://replit.com/@LuisPedroza1/boilerplate-budget-app#budget.py
 SOLUTION: https://replit.com/@LuisPedroza1/boilerplate-polygon-area-calculator#shape_calculator.py
 
 5. Probability Calculator: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
+SOLUTION: https://replit.com/@LuisPedroza1/boilerplate-probability-calculator#prob_calculator.py
